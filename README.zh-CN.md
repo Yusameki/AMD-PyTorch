@@ -4,7 +4,7 @@
 
 **Ubuntu 18.04 上把 ROCm 装好、用 Docker 让 PyTorch 跑在 AMD GPU 上的小记录**
 
-<sub>[English](README.md) · **中文**</sub>
+<sub>[English](README.md) · [日本語](README.ja.md) · **中文**</sub>
 
 <sub>这是当年那份笔记整理后的版本，里面的版本号都还是旧的了</sub>
 <sub>真要现在动手的话，记得对照 [ROCm 官方文档](https://rocm.docs.amd.com/) 的最新步骤 (´-ω-`)</sub>
